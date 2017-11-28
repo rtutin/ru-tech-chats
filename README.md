@@ -28,6 +28,7 @@
 | **Angular RUS** |  | AngularJS, Javascript | Gitter: https://gitter.im/angularjsrus/chat |  |
 | **AngularJS UA** | [![Dev UA](./communities/dev-ua.png)](https://gitter.im/orgs/dev-ua/rooms) [Dev UA](https://gitter.im/orgs/dev-ua/rooms) | AngularJS, Javascript | Gitter: http://angular.im |  |
 | **Angular.js — русскоговорящее сообщество** | [![Angular.js — русскоговорящее сообщество](./communities/anuglar-js.jpg)](https://telegram.me/angular_js) [Angular.js — русскоговорящее сообщество](https://telegram.me/angular_js) | AngularJS | Telegram: https://telegram.me/angular_js |  |
+| **Angular 4.x**|
 | **Android rus-speaking developers chat** |  | Android | Gitter: https://gitter.im/rus-speaking/android |  |
 | **Android rus-speaking slack team** |  | Android | Slack: https://goo.gl/forms/YMWbVTvsESLyHWWH3 |  |
 | **Android Developers - русскоговорящее сообщество** |  | Android | Telegram: https://telegram.me/android_ru |  |
